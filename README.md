@@ -5,9 +5,9 @@
 </div>
 
   
-¡Hola! Bienvenido a mi proyecto del segundo nivel del Simulador Télos. En este nivel, estoy utilizando PySpark para analizar grandes conjuntos de datos y extraer insights valiosos que pueden ayudar en la toma de decisiones estratégicas. 
+¡Hola! Bienvenido a mi proyecto del segundo nivel del Bootcamp Télos. En este nivel, estoy utilizando PySpark para analizar grandes conjuntos de datos y extraer insights valiosos que pueden ayudar en la toma de decisiones estratégicas. 
 
-Olá! Bem-vindo ao meu projeto de segundo nível do Simulador Télos. Neste nível, estou usando o PySpark para analisar grandes conjuntos de dados e extrair insights valiosos que podem ajudar na tomada de decisões estratégicas.
+Olá! Bem-vindo ao meu projeto de segundo nível do Bootcamp Télos. Neste nível, estou usando o PySpark para analisar grandes conjuntos de dados e extrair insights valiosos que podem ajudar na tomada de decisões estratégicas.
 
 ## 🚀 Objetivo del Proyecto / Objetivo do Projeto
 
